@@ -14,3 +14,4 @@ A simple chatbot application built with Streamlit that interacts with users by q
    set your requirements based on logic
    -run the stramlit
    streamlit run (your file name).py
+   you can setup your hugging face api key and url in to .env file then run the file
